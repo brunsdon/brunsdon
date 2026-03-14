@@ -61,11 +61,26 @@ Currently delivering Dynamics solutions in government environments and building 
 I am particularly interested in architectures combining:
 
 ```mermaid
-flowchart LR
-  PP["Power Pages"] --> DV["Dataverse"]
-  DV --> ASB["Azure Service Bus"]
-  ASB --> AF["Azure Functions"]
-  AF --> ES["External enterprise systems"]
+flowchart TD
+  %% Nodes (top-down)
+  PP["Power Pages<br/>(Portal)"]:::portal
+  DV["Dataverse<br/>(Datastore)"]:::datastore
+  ASB["Azure Service Bus<br/>(Messaging)"]:::messaging
+  AF["Azure Functions<br/>(Compute)"]:::compute
+  ES["External enterprise systems<br/>(API / ERP)"]:::external
+
+  %% Edges with labels
+  PP -->|Writes data| DV
+  DV -->|Publishes message| ASB
+  ASB -->|Queue / Topic trigger| AF
+  AF -->|Calls / Integrates with| ES
+
+  %% Styling
+  classDef portal fill:#742774,stroke:#333,color:#fff,stroke-width:1px;
+  classDef datastore fill:#0F6CBD,stroke:#333,color:#fff,stroke-width:1px;
+  classDef messaging fill:#F6A623,stroke:#333,color:#000,stroke-width:1px;
+  classDef compute fill:#512BD4,stroke:#333,color:#fff,stroke-width:1px;
+  classDef external fill:#94A3B8,stroke:#333,color:#000,stroke-width:1px;
 ```
 
 ---
