@@ -60,15 +60,13 @@ Currently delivering Dynamics solutions in government environments and building 
 
 I am particularly interested in architectures combining:
 
-Power Pages  
-↓  
-Dataverse  
-↓  
-Azure Service Bus  
-↓  
-Azure Functions  
-↓  
-External enterprise systems
+```mermaid
+flowchart LR
+  PP["Power Pages"] --> DV["Dataverse"]
+  DV --> ASB["Azure Service Bus"]
+  ASB --> AF["Azure Functions"]
+  AF --> ES["External enterprise systems"]
+```
 
 ---
 
