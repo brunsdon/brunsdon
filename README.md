@@ -37,20 +37,20 @@ Currently delivering Dynamics solutions in government environments and building 
 
 These are my currently highlighted/pinned projects on GitHub — useful starting points if you're working with Power Pages, Dataverse or integrations.
 
- - [power-pages-cheat-sheet](https://github.com/brunsdon/power-pages-cheat-sheet) — Practical guidance for developers building portals with Power Pages and Dataverse.  
- - [power-pages-liquid-examples](https://github.com/brunsdon/power-pages-liquid-examples) — A collection of Liquid snippets and examples for Power Pages templating.
  - [dynamics365-developer-cheat-sheet](https://github.com/brunsdon/dynamics365-developer-cheat-sheet) — Quick reference for Dynamics 365 development including plugins, Web API and solution management.
  - [power-platform-integration-patterns](https://github.com/brunsdon/power-platform-integration-patterns) — Architecture patterns for integrating Power Platform with Azure services and external systems.
- - [dataverse-query-examples](https://github.com/brunsdon/dataverse-query-examples) — Practical Dataverse Web API query examples including filtering, expands and CRUD operations.
+ - [power-pages-cheat-sheet](https://github.com/brunsdon/power-pages-cheat-sheet) — Practical guidance for developers building portals with Power Pages and Dataverse.  
+ - [power-pages-liquid-examples](https://github.com/brunsdon/power-pages-liquid-examples) — A collection of Liquid snippets and examples for Power Pages templating.
  - [dataverse-schema-design-guide](https://github.com/brunsdon/dataverse-schema-design-guide) — Guidance for designing scalable Dataverse schemas for Dynamics and Power Platform systems.
+ - [dataverse-query-examples](https://github.com/brunsdon/dataverse-query-examples) — Practical Dataverse Web API query examples including filtering, expands and CRUD operations.
 
 ### Power Platform
 
-- **power-pages-cheat-sheet**  
-  Practical guidance for developers building portals with Power Pages and Dataverse.
-
 - **dynamics365-developer-cheat-sheet**  
   Quick reference for Dynamics 365 development including plugins, Web API and solution management.
+
+- **power-pages-cheat-sheet**  
+  Practical guidance for developers building portals with Power Pages and Dataverse.
 
 - **power-platform-integration-patterns**  
   Architecture patterns for integrating Power Platform with Azure services and external systems.
