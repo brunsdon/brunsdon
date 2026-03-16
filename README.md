@@ -38,17 +38,11 @@ Currently delivering Dynamics solutions in government environments and building 
 These are my currently highlighted/pinned projects on GitHub — useful starting points if you're working with Power Pages, Dataverse or integrations.
 
  - [power-pages-cheat-sheet](https://github.com/brunsdon/power-pages-cheat-sheet) — Practical guidance for developers building portals with Power Pages and Dataverse.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/power-pages-cheat-sheet?style=flat&logo=github)](https://github.com/brunsdon/power-pages-cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/power-pages-cheat-sheet?style=flat&logo=github)](https://github.com/brunsdon/power-pages-cheat-sheet/network/members)
- - [power-pages-liquid-examples](https://github.com/brunsdon/power-pages-liquid-examples) — A collection of Liquid snippets and examples for Power Pages templating.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/power-pages-liquid-examples?style=flat&logo=github)](https://github.com/brunsdon/power-pages-liquid-examples/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/power-pages-liquid-examples?style=flat&logo=github)](https://github.com/brunsdon/power-pages-liquid-examples/network/members)
- - [dynamics365-developer-cheat-sheet](https://github.com/brunsdon/dynamics365-developer-cheat-sheet) — Quick reference for Dynamics 365 development including plugins, Web API and solution management.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/dynamics365-developer-cheat-sheet?style=flat&logo=github)](https://github.com/brunsdon/dynamics365-developer-cheat-sheet/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/dynamics365-developer-cheat-sheet?style=flat&logo=github)](https://github.com/brunsdon/dynamics365-developer-cheat-sheet/network/members)
- - [power-platform-integration-patterns](https://github.com/brunsdon/power-platform-integration-patterns) — Architecture patterns for integrating Power Platform with Azure services and external systems.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/power-platform-integration-patterns?style=flat&logo=github)](https://github.com/brunsdon/power-platform-integration-patterns/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/power-platform-integration-patterns?style=flat&logo=github)](https://github.com/brunsdon/power-platform-integration-patterns/network/members)
- - [dataverse-query-examples](https://github.com/brunsdon/dataverse-query-examples) — Practical Dataverse Web API query examples including filtering, expands and CRUD operations.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/dataverse-query-examples?style=flat&logo=github)](https://github.com/brunsdon/dataverse-query-examples/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/dataverse-query-examples?style=flat&logo=github)](https://github.com/brunsdon/dataverse-query-examples/network/members)
- - [dataverse-schema-design-guide](https://github.com/brunsdon/dataverse-schema-design-guide) — Guidance for designing scalable Dataverse schemas for Dynamics and Power Platform systems.  
-   [![Stars](https://img.shields.io/github/stars/brunsdon/dataverse-schema-design-guide?style=flat&logo=github)](https://github.com/brunsdon/dataverse-schema-design-guide/stargazers) [![Forks](https://img.shields.io/github/forks/brunsdon/dataverse-schema-design-guide?style=flat&logo=github)](https://github.com/brunsdon/dataverse-schema-design-guide/network/members)
+ - [power-pages-liquid-examples](https://github.com/brunsdon/power-pages-liquid-examples) — A collection of Liquid snippets and examples for Power Pages templating.
+ - [dynamics365-developer-cheat-sheet](https://github.com/brunsdon/dynamics365-developer-cheat-sheet) — Quick reference for Dynamics 365 development including plugins, Web API and solution management.
+ - [power-platform-integration-patterns](https://github.com/brunsdon/power-platform-integration-patterns) — Architecture patterns for integrating Power Platform with Azure services and external systems.
+ - [dataverse-query-examples](https://github.com/brunsdon/dataverse-query-examples) — Practical Dataverse Web API query examples including filtering, expands and CRUD operations.
+ - [dataverse-schema-design-guide](https://github.com/brunsdon/dataverse-schema-design-guide) — Guidance for designing scalable Dataverse schemas for Dynamics and Power Platform systems.
 
 ### Power Platform
 
