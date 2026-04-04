@@ -51,6 +51,7 @@ Architecture → Development → Deployment → Operations
 * 📘 **[Dynamics 365 Developer Cheat Sheet](https://github.com/brunsdon/dynamics365-developer-cheat-sheet)**
 * 🔗 **[Power Platform Integration Patterns](https://github.com/brunsdon/power-platform-integration-patterns)**
 * 🧩 **[Power Pages Cheat Sheet](https://github.com/brunsdon/power-pages-cheat-sheet)**
+* 💧 **[Power Pages Liquid Examples](https://github.com/brunsdon/power-pages-liquid-examples)**
 * 🧱 **[Dataverse Schema Design Guide](https://github.com/brunsdon/dataverse-schema-design-guide)**
 * 📊 **[Dataverse Query Examples](https://github.com/brunsdon/dataverse-query-examples)**
 
